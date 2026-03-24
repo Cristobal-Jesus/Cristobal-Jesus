@@ -58,11 +58,11 @@ A small but interesting project that shows curiosity, initiative, and willingnes
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristobal-Jesus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristobal-Jesus&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=Cristobal-Jesus&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
