@@ -48,6 +48,8 @@ My current work combines **software development and AI fundamentals**, aiming to
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### 🧠 AI / Data
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243)
