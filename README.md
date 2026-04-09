@@ -92,9 +92,9 @@ Design and implementation of a **Transformer architecture from scratch** to clas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristobal-Jesus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristobal-Jesus&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Cristobal-Jesus&theme=tokyonight&hide_border=true&border_radius=12)
 
