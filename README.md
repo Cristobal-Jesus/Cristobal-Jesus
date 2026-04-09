@@ -53,6 +53,7 @@ My current work combines **software development and AI fundamentals**, aiming to
 
 ### 🧠 AI / Data
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge)
