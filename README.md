@@ -71,29 +71,20 @@ My current work combines **software development and AI fundamentals**, aiming to
 
 ## 🌟 Featured Projects
 
-### 📌 AI Project — [Project Name]
-Development of a machine learning model to solve a specific problem.
+### 📌 Transformer for Animal Classification
 
-- Technologies: Python, NumPy  
-- Focus: data processing, model evaluation  
-- Outcome: understanding of ML workflow and performance metrics  
+Design and implementation of a **Transformer architecture from scratch** to classify 20 animal species, including a full experimental comparison with different deep learning approaches and hardware setups.
 
----
+- Technologies: Python, PyTorch  
+- Models: Custom Transformer (from scratch), PyTorch Transformer, CNN baseline  
 
-### 📌 Backend API — [Project Name]
-Design and implementation of a REST API.
+- Experiments:
+  - Performance comparison between architectures (Transformer vs CNN)  
+  - Training benchmarking across GPUs (A100, H100, H200)  
 
-- Technologies: Node.js, Express, PostgreSQL  
-- Features: authentication, structured architecture  
-- Focus: scalability and clean code  
-
----
-
-### 📌 Algorithms / Systems Project — [Project Name]
-Implementation of core computer science concepts.
-
-- Technologies: C / Java  
-- Focus: efficiency, memory management, problem solving  
+- Optimization:
+  - Model optimization using pruning and quantization techniques  
+  - Analysis of performance vs efficiency trade-offs  
 
 ---
 
