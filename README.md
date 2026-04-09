@@ -2,7 +2,7 @@
 
 # Hi there, I'm Cristóbal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Passionate+about+Artificial+Intelligence;Always+learning+new+things;Building+my+future+step+by+step" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Focused+on+Artificial+Intelligence;Backend+%26+Problem+Solving;Building+real+solutions" alt="Typing SVG" />
 
 </div>
 
@@ -10,18 +10,21 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Engineering student** with a strong interest in **Artificial Intelligence** and its potential to solve real-world problems.
+I'm a **Computer Engineer** with a strong interest in **Artificial Intelligence** and backend development.
 
-I'm curious, consistent, and always looking for ways to grow both personally and professionally. Right now, I'm focused on learning, building, and taking every opportunity to improve my skills and gain experience in the tech world.
+I focus on building solid engineering foundations through **algorithms, data structures, and system design**, applying this knowledge to real-world problems.
+
+My current work combines **software development and AI fundamentals**, aiming to create efficient, scalable, and meaningful solutions.
 
 ---
 
-## 🧠 What I'm Currently Focused On
+## 🧩 Technical Focus
 
-- Exploring the world of **Artificial Intelligence**
-- Improving my skills through **projects and continuous learning**
-- Growing as a future developer and problem solver
-- Looking for opportunities to start my career in **AI**
+- Algorithms & Data Structures  
+- Artificial Intelligence & Machine Learning  
+- Backend Development  
+- Problem Solving & Optimization  
+- System Design Fundamentals  
 
 ---
 
@@ -29,11 +32,38 @@ I'm curious, consistent, and always looking for ways to grow both personally and
 
 <div align="center">
 
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/CSharp-111111?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=276DC3)
+
+### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=DD0031)
+
+### 🧠 AI / Data
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+### 🧰 Tools & Systems
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
@@ -41,16 +71,29 @@ I'm curious, consistent, and always looking for ways to grow both personally and
 
 ## 🌟 Featured Projects
 
-> Replace these with your real projects. Even 2 or 3 good ones make a big difference.
+### 📌 AI Project — [Project Name]
+Development of a machine learning model to solve a specific problem.
 
-### 📌 Project 1 — AI / Machine Learning Project
-Short description of what the project does, what problem it solves, and what you learned from it.
+- Technologies: Python, NumPy  
+- Focus: data processing, model evaluation  
+- Outcome: understanding of ML workflow and performance metrics  
 
-### 📌 Project 2 — Personal or University Project
-Short description of the project, your role, and the main technologies used.
+---
 
-### 📌 Project 3 — Experimental Project
-A small but interesting project that shows curiosity, initiative, and willingness to learn.
+### 📌 Backend API — [Project Name]
+Design and implementation of a REST API.
+
+- Technologies: Node.js, Express, PostgreSQL  
+- Features: authentication, structured architecture  
+- Focus: scalability and clean code  
+
+---
+
+### 📌 Algorithms / Systems Project — [Project Name]
+Implementation of core computer science concepts.
+
+- Technologies: C / Java  
+- Focus: efficiency, memory management, problem solving  
 
 ---
 
@@ -70,10 +113,10 @@ A small but interesting project that shows curiosity, initiative, and willingnes
 
 ## 🎯 Goals
 
-- Keep growing in the field of **Artificial Intelligence**
-- Build projects that reflect my learning and progress
-- Gain real-world experience in tech
-- Contribute to meaningful and challenging projects
+- Build robust and scalable software systems  
+- Deepen knowledge in Artificial Intelligence  
+- Apply engineering principles to real-world problems  
+- Contribute to impactful and technically challenging projects  
 
 ---
 
@@ -81,9 +124,9 @@ A small but interesting project that shows curiosity, initiative, and willingnes
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crist%C3%B3bal-jes%C3%BAs-sarmiento-rodr%C3%ADguez-b2b524180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FiRA0zUmTpmjmsRs%2BD0%2Fqw%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cristobal-Jesus)
+[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarmiento.cs16@gmail.com)
 
 </div>
 
@@ -91,6 +134,6 @@ A small but interesting project that shows curiosity, initiative, and willingnes
 
 <div align="center">
 
-### ✨ "Stay curious, keep building."
+### ✨ "Build things that matter."
 
 </div>
